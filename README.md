@@ -7,11 +7,17 @@ In order to build binary files, you will need to download some thirdparty SDKs. 
 
 ### SDKs
 NNBSS uses following SDKs: 
+
 WxWidgets 3.1.6 version
+
 OpenCV 4.5.5 version
+
 SDL2 2.0.20 version
+
 ffmpeg
+
 CrashRpt 1403 version
+
 Boost 1.78.0 version
 
 ### Branches
