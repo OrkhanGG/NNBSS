@@ -36,3 +36,7 @@ Please be aware that these files you have downloaded can only be modified, copie
 obtaining permission from both of the owners of this project and the Loam company, namely Abdulov Kanan Zaur and Orkhan Aliyev Arif .
 Otherwise, you accept the penalty imposed by the Loam company: https://www.loaminc.space/terms-of-service
 (Information about the penalty may be imposed[in case of violation of the terms of use] and other license information are available in the License.md file.)
+
+# Help
+If you have any questions but it's not an issue, please use NNBSS forum:
+https://www.loaminc.space/forum
