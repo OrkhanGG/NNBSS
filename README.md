@@ -43,5 +43,5 @@ Otherwise, you accept the penalty imposed by the Loam Inc: https://www.loaminc.s
 (Information about the penalty may be imposed and other license information are available in the [License.md](https://github.com/OrkhanGG/NNBSS/blob/main/LICENSE.md) file.)
 
 # NNBSS Forum
-If you have any questions but it's not an issue, please use NNBSS forum:
+If you have any questions other than an issue, please use NNBSS forum:
 https://www.loaminc.space/forum
