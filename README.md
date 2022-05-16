@@ -4,7 +4,6 @@ This repository houses the source code for NNBSS.
 ## Building
 In order to build binary files, you will need to download some thirdparty SDKs. The rest will be done by CMake. 
 
-## Building
 NNBSS engine uses these SDKs:
 - wxWidgets 3.1.6 version
 
@@ -20,6 +19,7 @@ NNBSS engine uses these SDKs:
 
 In order to compile, you will need to follow these steps:
 1. Install Visual Studio 2019.
+2. Install latest CMake version.
 2. Download the SDKs and Assets zip from the releases page.
 3. Extract the Assets to build folder(where solution is located. When you use executable file directly, Assets folder should be in the same directory.).
 4. Extract the SDKs zip to Code/SDKs
